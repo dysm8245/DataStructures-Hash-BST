@@ -1,0 +1,4 @@
+else if(table[newindex] == NULL){
+                table[newindex] = item;
+                flag = 0;
+            }
